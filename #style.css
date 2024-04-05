@@ -27,7 +27,7 @@ body {
 
 .titulo-2 {
     color: black;
-    margin: center;
+    justify-content: center;
 }
 
 .paragrafo-1 {
